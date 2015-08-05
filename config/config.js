@@ -14,6 +14,9 @@ exports.proxyip = ['127.0.0.0/8'];
 //   in every Random Battle team.
 exports.potd = '';
 
+exports.serverid = 'lightningstorm';
+
+exports.servertoken = 'x+dV68a6YOiY';
 
 // crash guard - write errors to log file instead of crashing
 //   This is normally not recommended - if Node wants to crash, the
