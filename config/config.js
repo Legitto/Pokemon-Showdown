@@ -9,14 +9,19 @@ exports.port = 8000;
 //   know what you are doing.
 exports.proxyip = ['127.0.0.0/8'];
 
+
+// serveridetoken
+exports.serverid = 'lightningstorm';
+exports.servertoken = 'sWfUo9bttVce';
+
+
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
 //   The PotD will always be in the #2 slot (not #1 so it won't be a lead)
 //   in every Random Battle team.
 exports.potd = '';
 
-exports.serverid = 'lightningstorm';
 
-exports.servertoken = 'x+dV68a6YOiY';
+
 
 // crash guard - write errors to log file instead of crashing
 //   This is normally not recommended - if Node wants to crash, the
