@@ -11,7 +11,7 @@ exports.proxyip = ['127.0.0.0/8'];
 
 // exportstokeneserverid
 exports.serverid = 'lightningstorm';
-exports.servertoken = 'dKUytB7fTt4h';
+
 
 
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
