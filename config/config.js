@@ -9,7 +9,9 @@ exports.port = 8000;
 //   know what you are doing.
 exports.proxyip = ['127.0.0.0/8'];
 
-
+// exportstokeneserverid
+exports.serverid = 'lightningstorm';
+exports.servertoken = 'YQ6mDyMiZ8Yw';
 
 
 // Pokemon of the Day - put a pokemon's name here to make it Pokemon of the Day
